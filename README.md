@@ -4,7 +4,7 @@ A Spring Boot backend application that provides RESTful services for managing va
 
 ---
 
-## 🚀 Features
+## Features
 
 - RESTful API for vacation booking operations
 - Customer management and data persistence
@@ -16,7 +16,7 @@ A Spring Boot backend application that provides RESTful services for managing va
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - Java
 - Spring Boot
@@ -28,7 +28,7 @@ A Spring Boot backend application that provides RESTful services for managing va
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 - `entities/` – JPA entity models (Customer, Vacation, Excursion, etc.)
 - `dao/` – Repository interfaces for database operations
@@ -38,7 +38,7 @@ A Spring Boot backend application that provides RESTful services for managing va
 
 ---
 
-## 🔄 Core Functionality
+##  Core Functionality
 
 ### Customer Management
 - Create and retrieve customer records
@@ -55,7 +55,7 @@ A Spring Boot backend application that provides RESTful services for managing va
 
 ---
 
-## 🧪 Validation
+##  Validation
 
 The API includes validation rules to ensure:
 - Required fields are provided
@@ -64,7 +64,7 @@ The API includes validation rules to ensure:
 
 ---
 
-## 🌐 API Design
+##  API Design
 
 The application follows REST principles:
 - `GET` – Retrieve data (customers, vacations, excursions)
@@ -74,7 +74,7 @@ The application follows REST principles:
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Designing layered Spring Boot applications
 - Building RESTful APIs with proper separation of concerns
@@ -84,7 +84,7 @@ The application follows REST principles:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add authentication (JWT security layer)
 - Add booking history per customer
@@ -93,7 +93,7 @@ The application follows REST principles:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Martenique Harmon  
 GitHub: [github.com/MarteniqueH](https://github.com/MarteniqueH)
